@@ -17,7 +17,7 @@ Streamlit -- Open source framework to convert python scripts into shareable web 
  `pip install bip44` in the command line  
 
  * Ganache --  
- Navigate to ['Truffle suite / Ganache homepage'](https://trufflesuite.com/ganache/) and follow installation instructions for your os.
+ Navigate to [Truffle suite / Ganache homepage](https://trufflesuite.com/ganache/) and follow installation instructions for your os.
 
  ## Usage
 
@@ -32,4 +32,8 @@ The usage of this app is very straight forward.  After navigating to the root of
 !['Transaction details'](./Images/ganache_transaction2.PNG) 
 
 ###  Screenshot of further transaction details from transfer of funds to fintech professional's account --  
-!['Detailed transaction info'](./Images/ganache_transaction3.PNG)
+!['Detailed transaction info'](./Images/ganache_transaction3.PNG)  
+
+## License
+
+Licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)  Copyright 2021 Dave Thomas.
